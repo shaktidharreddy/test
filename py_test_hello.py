@@ -6,4 +6,3 @@ if hungry=="yes":
     print("drink pepsi")
 else:
     print("do your homework")
-    print("go play also")
